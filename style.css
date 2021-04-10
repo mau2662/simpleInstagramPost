@@ -6,7 +6,7 @@ body {
 
 
 div.post .post-header {
-    background-color: yellow;
+    
     height: 80px;
     padding-bottom: 10px;
     display: flex;
@@ -58,6 +58,7 @@ width: 100%;
 }
 
 .saveIcon{
+    padding-right: 20px;
     float: right;
     }
 
@@ -66,7 +67,7 @@ width: 100%;
 }    
 
 .icons {
-
+    padding-left: 10px;
     padding-top: 10px;
 }
 
@@ -76,3 +77,8 @@ width: 100%;
     align-items: center;
 }
 
+.symbol{
+      
+    justify-content: center;
+    align-items: center;
+}
