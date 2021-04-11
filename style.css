@@ -44,7 +44,7 @@ div.post .post-header div:last-child{
     width: 20%;
 text-align: right;
 padding: 10px;
-color: gray;
+color: black;
 }
 
 div.post h2, div.post p{
@@ -71,14 +71,10 @@ width: 100%;
     padding-top: 10px;
 }
 
-.header-left{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .symbol{
-      
-    justify-content: center;
-    align-items: center;
-}
+     font-size: 50px; 
+ }
+
+ .titulo{
+   margin-bottom:-100px; 
+ }
